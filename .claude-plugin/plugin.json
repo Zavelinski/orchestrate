@@ -1,0 +1,19 @@
+{
+  "name": "orchestrate",
+  "version": "0.1.0",
+  "description": "Opinionated agent-orchestration templates for Claude Code: a plan -> spec -> build -> verify cycle with a hard approval gate and a verify check on every step, built on the Workflow tool.",
+  "author": {
+    "name": "Gabriel Zavelinski"
+  },
+  "homepage": "https://github.com/Zavelinski/orchestrate",
+  "repository": "https://github.com/Zavelinski/orchestrate",
+  "license": "MIT",
+  "keywords": [
+    "orchestration",
+    "workflow",
+    "subagents",
+    "plan-spec-build-verify",
+    "gate",
+    "claude-code"
+  ]
+}

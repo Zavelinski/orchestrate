@@ -1,0 +1,22 @@
+{
+  "name": "orchestrate",
+  "owner": {
+    "name": "Gabriel Zavelinski"
+  },
+  "metadata": {
+    "description": "Marketplace hosting the orchestrate plugin."
+  },
+  "plugins": [
+    {
+      "name": "orchestrate",
+      "description": "Plan -> spec -> build -> verify orchestration templates with a hard approval gate, built on the Workflow tool.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Gabriel Zavelinski"
+      },
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/Zavelinski/orchestrate"
+    }
+  ]
+}
