@@ -36,3 +36,11 @@ The hard gate depends on honoring it; in headless Workflow mode the "gate" is a 
 ## License
 
 MIT
+
+---
+
+Part of the **[claude-code-skills](https://github.com/Zavelinski/claude-code-skills)** collection: a one-line [Claude Code](https://claude.com/claude-code) plugin marketplace of focused skills, plugins, and MCP servers.
+
+```
+/plugin marketplace add Zavelinski/claude-code-skills
+```
